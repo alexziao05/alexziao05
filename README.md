@@ -1,10 +1,10 @@
-## Hi there 👋
+## Hello world 👋
 
-👋 Hi, I’m Alex Huang
-👀 I’m interested in app development, cybersecurity, machine learning, frontend and backend. 
-🔭 I’m currently working on an android app to help SDSU students schedule their courses and connect with classmates. 
-🎓 I’m a 4th year computer science student at SDSU. 
-👯 I’m looking to collaborate on any project which helps people to live in a better place.
+- 👋 I’m Alex Huang
+- 👀 I’m interested in app development, cybersecurity, machine learning, frontend and backend. 
+- 🔭 I’m currently working on an android app to help SDSU students schedule their courses and connect with classmates. 
+- 🎓 I’m a 4th year computer science student at SDSU. 
+- 👯 I’m looking to collaborate on any project which helps people to live in a better place.
  
 <!--
 **alexziao05/alexziao05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
