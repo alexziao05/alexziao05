@@ -13,11 +13,11 @@ I am a 4th year **Computer Science** student. I am expanding my knowledge in bot
 - 📫 Reach out to me at: <a href="alexziao05@gmail.com">alexziao05@gmail.com</a>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alexziao05&theme=dracula&title=MultiLanguage" alt="MultiLanguage" style="margin-right: 15px;" />
-  <img src="https://github-profile-trophy.vercel.app/?username=alexziao05&theme=dracula&title=Commits" alt="Commits" style="margin-right: 15px;" />
-  <img src="https://github-profile-trophy.vercel.app/?username=alexziao05&theme=dracula&title=Experience" alt="Experience" style="margin-right: 15px;" />
-  <img src="https://github-profile-trophy.vercel.app/?username=alexziao05&theme=dracula&title=PullRequest" alt="PullRequest" style="margin-right: 15px;" />
-  <img src="https://github-profile-trophy.vercel.app/?username=alexziao05&theme=dracula&title=Repositories" alt="Repositories" />
+  <img src="https://github-profile-trophy.vercel.app/?username=alexziao05&theme=dracula&title=MultiLanguage" alt="MultiLanguage" style="margin-right:15px; display:inline-block;" />
+  <img src="https://github-profile-trophy.vercel.app/?username=alexziao05&theme=dracula&title=Commits" alt="Commits" style="margin-right:15px; display:inline-block;" />
+  <img src="https://github-profile-trophy.vercel.app/?username=alexziao05&theme=dracula&title=Experience" alt="Experience" style="margin-right:15px; display:inline-block;" />
+  <img src="https://github-profile-trophy.vercel.app/?username=alexziao05&theme=dracula&title=PullRequest" alt="PullRequest" style="margin-right:15px; display:inline-block;" />
+  <img src="https://github-profile-trophy.vercel.app/?username=alexziao05&theme=dracula&title=Repositories" alt="Repositories" style="display:inline-block;" />
 </p>
 
 
