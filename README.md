@@ -13,8 +13,9 @@ I am a 4th year **Computer Science** student. I am expanding my knowledge in bot
 - 📫 Reach out to me at: <a href="alexziao05@gmail.com">alexziao05@gmail.com</a>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alexziao05&theme=dracula>
+  <img src="https://github-profile-trophy.vercel.app/?username=alexziao05&theme=dracula" alt="Trophies" />
 </p>
+
 
 
 
