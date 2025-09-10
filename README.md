@@ -11,7 +11,8 @@ I am a 4th year **Computer Science** student. I am expanding my knowledge in bot
 - 💞️ I’m looking to collaborate on any project which helps people to live in a better place.
 - Outside tech, I enjoy 🗣️ socializing with friends, 🏋️‍♀️ working out, and 🎵 listening to music.
 - 📫 Reach out to me at: <a href="alexziao05@gmail.com">alexziao05@gmail.com</a>
-
+<br>
+<br>
 <!-- Profile Trophies -->
 <div align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
