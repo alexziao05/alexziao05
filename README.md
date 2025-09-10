@@ -2,7 +2,10 @@
 
 <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp;***About me***
 
-<img align="right" width=200px alt="SDSU Logo" src="https://brand.sdsu.edu/_images/_logo-section/downloads/1000-horizontal-reverse.jpg"/>
+<figure align="right" style="width:310px;">
+  <img width="310px" alt="Unicorn" src="https://media.licdn.com/dms/image/v2/D562DAQFONIRjCUEN9g/profile-treasury-image-shrink_800_800/B56ZhDvEv8HcAc-/0/1753483072836?e=1758117600&v=beta&t=d7Xd50cfOQ84u_WwHHh4ejpXxV-Et-rDUy146mi__xI"/>
+  <figcaption align="center"><sub>This is me presenting a MATLAB simulation for modeling electrobiochemical reactions.</sub></figcaption>
+</figure>
 
 I am a 4th year **Computer Science** student. I am expanding my knowledge in both back-end and front-end development. I have experience working in teams using agile methodologies and Scrum. My goal is to strengthen my development skills and explore new technologies. I enjoy learning and building new, creative, and fun projects.
 - 📚 I’m currently learning ...
@@ -33,12 +36,6 @@ I am a 4th year **Computer Science** student. I am expanding my knowledge in bot
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
-
-<figure align="right" style="width:310px;">
-  <img width="310px" alt="Unicorn" src="https://media.licdn.com/dms/image/v2/D562DAQFONIRjCUEN9g/profile-treasury-image-shrink_800_800/B56ZhDvEv8HcAc-/0/1753483072836?e=1758117600&v=beta&t=d7Xd50cfOQ84u_WwHHh4ejpXxV-Et-rDUy146mi__xI"/>
-  <figcaption align="center"><sub>This is me presenting a MATLAB simulation for modeling electrobiochemical reactions.</sub></figcaption>
-</figure>
-
 
 ###### Frontend Development:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
