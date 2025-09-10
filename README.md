@@ -2,10 +2,13 @@
 
 <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp;***About me***
 
-<figure align="right" style="width:310px;">
-  <img width="310px" alt="Unicorn" src="https://media.licdn.com/dms/image/v2/D562DAQFONIRjCUEN9g/profile-treasury-image-shrink_800_800/B56ZhDvEv8HcAc-/0/1753483072836?e=1758117600&v=beta&t=d7Xd50cfOQ84u_WwHHh4ejpXxV-Et-rDUy146mi__xI"/>
-  <figcaption align="center"><sub>This is me presenting a MATLAB simulation for modeling electrobiochemical reactions.</sub></figcaption>
-</figure>
+<div align="right">
+  <figure>
+    <img width="325px" src="https://media.licdn.com/dms/image/v2/D562DAQFONIRjCUEN9g/profile-treasury-image-shrink_800_800/B56ZhDvEv8HcAc-/0/1753483072836?e=1758117600&v=beta&t=d7Xd50cfOQ84u_WwHHh4ejpXxV-Et-rDUy146mi__xI"/>
+    <figcaption><sub>This is me presenting a MATLAB simulation for modeling electrobiochemical reactions</sub></figcaption>
+  </figure>
+</div>
+
 
 I am a 4th year **Computer Science** student. I am expanding my knowledge in both back-end and front-end development. I have experience working in teams using agile methodologies and Scrum. My goal is to strengthen my development skills and explore new technologies. I enjoy learning and building new, creative, and fun projects.
 - 📚 I’m currently learning ...
