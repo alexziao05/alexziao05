@@ -1,22 +1,9 @@
-## Hello world 👋
+<h1><b>Hi there, I'm </b><a href="https://github.com/alexziao05">Alex Huang</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 
-- 👋 I’m Alex Huang
-- 👀 I’m interested in app development, cybersecurity, machine learning, frontend and backend. 
-- 🔭 I’m currently working on an android app to help SDSU students schedule their courses and connect with classmates. 
-- 🎓 I’m a 4th year computer science student at SDSU. 
-- 👯 I’m looking to collaborate on any project which helps people to live in a better place.
- 
-<!--
-**alexziao05/alexziao05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp;***About me***
 
-Here are some ideas to get you started:
+<img align="right" width=200px alt="SDSU Seal" src="https://brand.sdsu.edu/_images/_logo-section/presidential-seal/600x600-pres-seal.jpg"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
