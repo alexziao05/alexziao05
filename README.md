@@ -1,6 +1,7 @@
 <h1><b>Hi there, I'm </b><a href="https://github.com/alexziao05">Alex Huang</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 
 <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp;***About me***
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <img align="right" width=200px src="https://media.licdn.com/dms/image/v2/D562DAQFONIRjCUEN9g/profile-treasury-image-shrink_800_800/B56ZhDvEv8HcAc-/0/1753483072836?e=1758117600&v=beta&t=d7Xd50cfOQ84u_WwHHh4ejpXxV-Et-rDUy146mi__xI"/>
 
