@@ -90,6 +90,9 @@ I am a 4th year **Computer Science** student. I am expanding my knowledge in bot
 </p>
 <br>
 
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=alexziao05.alexziao05)
+
+
 
 
 
