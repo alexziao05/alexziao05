@@ -12,10 +12,12 @@ I am a 4th year **Computer Science** student. I am expanding my knowledge in bot
 - Outside tech, I enjoy 🗣️ socializing with friends, 🏋️‍♀️ working out, and 🎵 listening to music.
 - 📫 Reach out to me at: <a href="alexziao05@gmail.com">alexziao05@gmail.com</a>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alexziao05&theme=dracula" alt="Trophies" />
-</p>
-
+<!-- Profile Trophies -->
+<div align="center">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=alexziao05&theme=dark_lover&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" width="84%" />
+    </a>
+</div>   
 
 
 
